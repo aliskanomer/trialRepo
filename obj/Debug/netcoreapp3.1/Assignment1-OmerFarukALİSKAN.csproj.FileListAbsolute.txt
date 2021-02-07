@@ -1,0 +1,13 @@
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\bin\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.exe
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\bin\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.deps.json
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\bin\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.runtimeconfig.json
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\bin\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.runtimeconfig.dev.json
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\bin\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.dll
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\bin\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.pdb
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.csprojAssemblyReference.cache
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.AssemblyInfoInputs.cache
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.AssemblyInfo.cs
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.csproj.CoreCompileInputs.cache
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.dll
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.pdb
+C:\Users\omerf\Desktop\Ömer Faruk Alışkan\Assignment 1 - Basics\Assignment1-OmerFarukALİSKAN\obj\Debug\netcoreapp3.1\Assignment1-OmerFarukALİSKAN.genruntimeconfig.cache

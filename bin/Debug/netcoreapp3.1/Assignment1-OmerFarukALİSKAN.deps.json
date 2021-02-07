@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assignment1-OmerFarukALİSKAN/1.0.0": {
+        "runtime": {
+          "Assignment1-OmerFarukALİSKAN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment1-OmerFarukALİSKAN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
