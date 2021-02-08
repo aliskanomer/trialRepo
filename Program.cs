@@ -10,7 +10,6 @@ namespace assignment_1._1_to_1._4
         static void Main(string[] args)
         {
             Console.WriteLine("Developed by : Ömer Faruk Alışkan");
-            Console.WriteLine("Hi!");
             Console.WriteLine("Assignment 1.1");
 
             Console.WriteLine("Assignment 1.2:");
